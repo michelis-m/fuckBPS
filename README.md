@@ -13,7 +13,7 @@ To install dependencies do:
 $pip install binance
 
 You can run the script as:
-$python3 pumpit.py <coin_name> 
+$python3 pumpit.py COIN_NAME 
 e.g.
 $python3 pumpit.py PNT
  
