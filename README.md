@@ -19,3 +19,6 @@ $python3 pumpit.py PNT
  
 
 There are variables in the script for sell walls. Check first lines of the code.
+
+
+For donation my BTC wallet: 1MDZASK27Gv623sfK1GP9nSxK5mQpcteR5
